@@ -10,12 +10,12 @@
 </h3>
 
 <p align="center">
-  <a href="#🚀-sobre-a-aplicação">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#💿-pacotes-requiridos">Pacotes requiridos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#📝-licença">Licença</a>
+  <a href="#rocket-sobre-a-aplicação">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#cd-pacotes-instalados">Pacotes instalados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
-## 🚀 Sobre a aplicação
+## :rocket: Sobre a aplicação
 
 Uma simples aplicação em ReactJS!
 
@@ -53,7 +53,7 @@ Para esse desafio temos os seguintes testes:
 
 - **`should be able to remove repository`**: Para que esse teste passe, sua aplicação deve permitir que ao clicar no botão de remover que vai estar dentro da `LI` do repositório adicionado, o item seja removido da listagem.
 
-## 💿 Pacotes instalados
+## :cd: Pacotes instalados
 
 A seguir segue uma lista dos pacotes instalados:
 
@@ -65,6 +65,6 @@ A seguir segue uma lista dos pacotes instalados:
 - [@testing-library/react](https://www.npmjs.com/package/@testing-library/react)
 - [@testing-library/user-event](https://github.com/testing-library/user-event)
 
-## 📝 Licença
+## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
